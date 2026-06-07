@@ -12,7 +12,7 @@ This repository contains the completed tasks for the **PANAVERSITY PO-101 Hackat
 ## 📋 Tasks Overview
 
 ### **Task 1: AI Prompting Lab Report**
-A comprehensive analysis of prompt engineering techniques, focusing on zero-shot, few-shot, and chain-of-thought prompting strategies.
+A comprehensive analysis of prompt engineering techniques, focusing on direct instructions, **Iteration (learning from examples)**, and **"Thinking Hard" (logical reasoning)** strategies.
 - **File:** `docs/Task-1 ai-prompting-lab Report.md`
 
 ### **Task 2: AI-Assisted Snake Game**
@@ -59,7 +59,7 @@ A structured presentation on "The AI Agent Factory Thesis" and a report on the p
 
 This project serves as a practical exploration of the **AI-Native development lifecycle**. Through these three tasks, I have transitioned from traditional coding to **AI-assisted orchestration**:
 
-1.  **Efficiency through Prompting:** Task 1 demonstrated that the quality of AI output is directly proportional to the precision of the input. Mastering techniques like *Chain-of-Thought* and *Few-Shot* prompting allows for complex problem-solving in seconds.
+1.  **Efficiency through Prompting:** Task 1 demonstrated that the quality of AI output is directly proportional to the precision of the input. Mastering techniques like **"Thinking Hard" (deep reasoning)** and **Iteration (refining through examples)** allows for complex problem-solving in seconds.
 2.  **AI-Human Collaboration:** Task 2 (Snake Game) proved that AI can handle the heavy lifting of boilerplate and UI logic, allowing the developer to focus on high-level architecture, security, and performance optimization.
 3.  **The Future of Work (Agentic Workflows):** Task 3 highlighted the shift from "paying for software" to "paying for results." The "AI Agent Factory" concept shows that the next generation of developers will be **System Designers**, managing specialized AI workers to deliver complete outcomes.
 
@@ -68,5 +68,5 @@ This project serves as a practical exploration of the **AI-Native development li
 ---
 
 ## 🌟 Acknowledgments
-- Developed for **PANAVERSITY Hackathon**.
+- Developed for **PANAVERSITY Project-1**.
 - Optimized for performance and structure by Gemini CLI.
