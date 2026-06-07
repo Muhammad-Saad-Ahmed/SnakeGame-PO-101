@@ -1,53 +1,60 @@
-# 🐍 AI-Assisted Snake Game (Pro Edition)
+# 🐍 AI-Powered Snake Game & Project Tasks (PO-101)
 
-A high-performance, visually stunning Snake Game built using **Streamlit**, featuring custom CSS animations and optimized game logic. This project was developed as part of a hackathon task.
+This repository contains the completed tasks for the **PANAVERSITY PO-101 Hackathon**. The project showcases an AI-assisted Snake Game along with research reports on AI prompting and agentic workflows.
 
-## 🚀 Features
+## 🔗 Quick Links
+- **Presentation Link:** [The AI Agent Factory Thesis](https://docs.google.com/presentation/d/1YtWSswGu4mTVifryfugKcrPp4o0AgaUFutuRZ1OEsDM/edit?usp=sharing)
+- **Game Directory:** `game/`
+- **Reports Directory:** `docs/`
 
-- **Neon Aesthetic:** Enhanced UI with glow effects and smooth transitions.
-- **Keyboard Support:** Responsive arrow key controls using JavaScript injection.
-- **Optimized Engine:** Efficient grid rendering and food spawning logic to prevent performance bottlenecks.
-- **Fully Responsive:** Adapts to different screen sizes within the Streamlit container.
-- **Score Matrix:** Real-time score tracking.
+---
 
-## 🛠️ Installation & Local Setup
+## 📋 Tasks Overview
 
-To run this project locally, follow these steps:
+### **Task 1: AI Prompting Lab Report**
+A comprehensive analysis of prompt engineering techniques, focusing on zero-shot, few-shot, and chain-of-thought prompting strategies.
+- **File:** `docs/Task-1 ai-prompting-lab Report.md`
+
+### **Task 2: AI-Assisted Snake Game**
+A high-performance, visually stunning Snake Game built using **Streamlit**, featuring custom CSS animations and optimized game logic.
+- **File:** `game/app.py`
+- **Features:** 
+  - Neon Aesthetic with glow effects.
+  - Keyboard Support (Arrow Keys).
+  - Optimized Engine & Score Tracking.
+
+### **Task 3: Presentation & Key Learnings**
+A structured presentation on "The AI Agent Factory Thesis" and a report on the prompt evolution process used to generate it.
+- **File:** `docs/Task-3 Presentation Link, Prompts & Key Learning.md`
+- **Topic:** Shifting from SaaS to Results-oriented AI Workers.
+
+---
+
+## 🚀 How to Run the Game
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Muhammad-Saad-Ahmed/SnakeGame-PO-101.git
    cd snakeGame
    ```
 
 2. **Install dependencies:**
-   Make sure you have Python installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r game/requirements.txt
    ```
 
 3. **Run the application:**
    ```bash
-   streamlit run app.py
+   streamlit run game/app.py
    ```
 
 ## 🎮 How to Play
-
-- Use the **Arrow Keys** (Up, Down, Left, Right) on your keyboard to steer the snake.
-- Alternatively, use the on-screen UI buttons.
-- Eat the purple food pellets to grow and increase your score.
-- Avoid hitting the walls or yourself!
-
-## 📦 Project Structure
-
-- `app.py`: The main game logic and UI.
-- `requirements.txt`: Python dependencies.
-- `README.md`: Project documentation.
-
-## 🌟 Acknowledgments
-
-- Built with Streamlit.
-- Optimized for performance and security by Gemini CLI.
+- Use the **Arrow Keys** to steer the snake.
+- Eat the food pellets to grow and increase your score.
+- Avoid hitting the walls or your own tail!
 
 ---
-Developed for **PANAVERSITY Hackathon Task**.
+
+## 🌟 Acknowledgments
+- Developed for **PANAVERSITY Hackathon**.
+- Optimized for performance and structure by Gemini CLI.
